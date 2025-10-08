@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DeybarOptopus
-- 👀 I’m interested in C++ IoT
-- 🌱 I’m currently learning Git Hub
+- 👋 Hi, I’m @DeybarOctopus
+- 👀 I’m interested in C++, IoT, AI
+- 🌱 I’m currently learning Git Hub, AI and Data Science
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
